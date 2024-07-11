@@ -4,14 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d02e070-5be0-4492-83af-d6ec9f578125" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonMachineLearningBasic.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo.py" afterDir="false" />
+    <list default="true" id="2d02e070-5be0-4492-83af-d6ec9f578125" name="Changes" comment="python modules - 1. numpy">
+      <change afterPath="$PROJECT_DIR$/numpy/1d_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/1d_zero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/2d_3_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/2d_3_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/2d_4_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/2d_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/3d_4_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/3d_4_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/3d_zero_5_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/4_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/4_5_to_5_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/complex_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/demo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/full_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/identity_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/once_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/zero_matrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo2.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +44,9 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2ix3VyK4K6ZIvb1v6td0oQ5kWtr" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,13 +54,35 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Python.1d_4.executor": "Run",
+    "Python.1d_zero.executor": "Run",
+    "Python.2d_3_3.executor": "Run",
+    "Python.2d_3_4.executor": "Run",
+    "Python.2d_4_3.executor": "Run",
+    "Python.2d_matrix.executor": "Run",
+    "Python.3d_4_4.executor": "Run",
+    "Python.3d_4_5.executor": "Run",
+    "Python.3d_zero_5_5.executor": "Run",
+    "Python.4_4.executor": "Run",
+    "Python.4_5_to_5_4.executor": "Run",
+    "Python.complex_matrix.executor": "Run",
     "Python.demo.executor": "Run",
+    "Python.demo2.executor": "Run",
+    "Python.full_matrix.executor": "Run",
+    "Python.identity_matrix.executor": "Run",
+    "Python.once_matrix.executor": "Run",
+    "Python.zero_matrix.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/jayas/PycharmProjects/pythonMachineLearningBasic"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jayas\PycharmProjects\pythonMachineLearningBasic\numpy" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -63,6 +99,19 @@
       <option name="presentableId" value="Default" />
       <updated>1720418428833</updated>
     </task>
+    <task id="LOCAL-00001" summary="python modules - 1. numpy">
+      <option name="closed" value="true" />
+      <created>1720493724481</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720493724481</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="python modules - 1. numpy" />
+    <option name="LAST_COMMIT_MESSAGE" value="python modules - 1. numpy" />
   </component>
 </project>
