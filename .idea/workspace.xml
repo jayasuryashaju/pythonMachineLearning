@@ -5,25 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d02e070-5be0-4492-83af-d6ec9f578125" name="Changes" comment="python modules - 1. numpy">
-      <change afterPath="$PROJECT_DIR$/numpy/1d_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy/1d_zero.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy/2d_3_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy/2d_3_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy/2d_4_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy/2d_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy/3d_4_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy/3d_4_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy/3d_zero_5_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy/4_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy/4_5_to_5_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy/complex_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy/demo2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy/full_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy/identity_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy/once_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy/zero_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/1D_dot_product.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/2_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/2d_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/addition_3_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/arrange.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/diamension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/linspace.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/matrix_range_arange.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo2.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,22 +44,29 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Python.1D_dot_product.executor": "Run",
     "Python.1d_4.executor": "Run",
     "Python.1d_zero.executor": "Run",
+    "Python.2_5.executor": "Run",
     "Python.2d_3_3.executor": "Run",
     "Python.2d_3_4.executor": "Run",
     "Python.2d_4_3.executor": "Run",
     "Python.2d_matrix.executor": "Run",
+    "Python.2d_sum.executor": "Run",
     "Python.3d_4_4.executor": "Run",
     "Python.3d_4_5.executor": "Run",
     "Python.3d_zero_5_5.executor": "Run",
     "Python.4_4.executor": "Run",
     "Python.4_5_to_5_4.executor": "Run",
+    "Python.addition_3_3.executor": "Run",
+    "Python.arrange.executor": "Run",
     "Python.complex_matrix.executor": "Run",
     "Python.demo.executor": "Run",
     "Python.demo2.executor": "Run",
+    "Python.diamension.executor": "Run",
     "Python.full_matrix.executor": "Run",
     "Python.identity_matrix.executor": "Run",
+    "Python.matrix_range_arange.executor": "Run",
     "Python.once_matrix.executor": "Run",
     "Python.zero_matrix.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -107,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720493724481</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="python modules - 1. numpy">
+      <option name="closed" value="true" />
+      <created>1720731590171</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720731590171</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
