@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d02e070-5be0-4492-83af-d6ec9f578125" name="Changes" comment="python modules - 1. numpy">
-      <change afterPath="$PROJECT_DIR$/numpy/1D_dot_product.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy/2_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy/2d_sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy/addition_3_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy/arrange.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy/diamension.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy/linspace.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy/matrix_range_arange.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/1d_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/1d_slicing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/2d_4_5_sorting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/2d_sorting_4_4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,12 +42,16 @@
     "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "Python.1D_dot_product.executor": "Run",
     "Python.1d_4.executor": "Run",
+    "Python.1d_functions.executor": "Run",
+    "Python.1d_slicing.executor": "Run",
     "Python.1d_zero.executor": "Run",
     "Python.2_5.executor": "Run",
     "Python.2d_3_3.executor": "Run",
     "Python.2d_3_4.executor": "Run",
     "Python.2d_4_3.executor": "Run",
+    "Python.2d_4_5_sorting.executor": "Run",
     "Python.2d_matrix.executor": "Run",
+    "Python.2d_sorting_4_4.executor": "Run",
     "Python.2d_sum.executor": "Run",
     "Python.3d_4_4.executor": "Run",
     "Python.3d_4_5.executor": "Run",
@@ -112,8 +112,27 @@
       <option name="project" value="LOCAL" />
       <updated>1720731590171</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="python modules - 1. numpy">
+      <option name="closed" value="true" />
+      <created>1720760626900</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720760626900</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="python modules - 1. numpy" />
