@@ -1,3 +1,8 @@
+"""
+axis = 1 = row
+axis = 0 = column
+"""
+
 import numpy as np
 
 a = np.array([3, 8, 3, 12, 5, 6])

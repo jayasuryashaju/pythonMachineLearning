@@ -5,11 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d02e070-5be0-4492-83af-d6ec9f578125" name="Changes" comment="python modules - 1. numpy">
-      <change afterPath="$PROJECT_DIR$/numpy/1d_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy/1d_slicing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy/2d_4_5_sorting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy/2d_sorting_4_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/1_1d_matrix_join.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/1d_argmax.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/1d_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/1d_matrix_argsort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/2d_argsort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/2d_join.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/4_4_decimal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/arg_min_1d_2d.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/1d_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy/1d_functions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +46,12 @@
   "keyToString": {
     "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "Python.1D_dot_product.executor": "Run",
+    "Python.1_1d_matrix_join.executor": "Run",
     "Python.1d_4.executor": "Run",
+    "Python.1d_argmax.executor": "Run",
     "Python.1d_functions.executor": "Run",
+    "Python.1d_matrix.executor": "Run",
+    "Python.1d_matrix_argsort.executor": "Run",
     "Python.1d_slicing.executor": "Run",
     "Python.1d_zero.executor": "Run",
     "Python.2_5.executor": "Run",
@@ -50,6 +59,8 @@
     "Python.2d_3_4.executor": "Run",
     "Python.2d_4_3.executor": "Run",
     "Python.2d_4_5_sorting.executor": "Run",
+    "Python.2d_argsort.executor": "Run",
+    "Python.2d_join.executor": "Run",
     "Python.2d_matrix.executor": "Run",
     "Python.2d_sorting_4_4.executor": "Run",
     "Python.2d_sum.executor": "Run",
@@ -57,8 +68,10 @@
     "Python.3d_4_5.executor": "Run",
     "Python.3d_zero_5_5.executor": "Run",
     "Python.4_4.executor": "Run",
+    "Python.4_4_decimal.executor": "Run",
     "Python.4_5_to_5_4.executor": "Run",
     "Python.addition_3_3.executor": "Run",
+    "Python.arg_min_1d_2d.executor": "Run",
     "Python.arrange.executor": "Run",
     "Python.complex_matrix.executor": "Run",
     "Python.demo.executor": "Run",
@@ -120,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720760626900</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="python modules - 1. numpy">
+      <option name="closed" value="true" />
+      <created>1721011046259</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721011046259</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
