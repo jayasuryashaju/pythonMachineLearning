@@ -5,16 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d02e070-5be0-4492-83af-d6ec9f578125" name="Changes" comment="python modules - 1. numpy">
-      <change afterPath="$PROJECT_DIR$/numpy/1_1d_matrix_join.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy/1d_argmax.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy/1d_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy/1d_matrix_argsort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy/2d_argsort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy/2d_join.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy/4_4_decimal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy/arg_min_1d_2d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/1_50_1d_problem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/1_50_even_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/1d_matrix_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/2d_4_4_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/filter_1d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/matrix_search_1d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/numpy_topics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/demo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/1d_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy/1d_functions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +46,8 @@
     "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "Python.1D_dot_product.executor": "Run",
     "Python.1_1d_matrix_join.executor": "Run",
+    "Python.1_50_1d_problem.executor": "Run",
+    "Python.1_50_even_numbers.executor": "Run",
     "Python.1d_4.executor": "Run",
     "Python.1d_argmax.executor": "Run",
     "Python.1d_functions.executor": "Run",
@@ -58,6 +59,7 @@
     "Python.2d_3_3.executor": "Run",
     "Python.2d_3_4.executor": "Run",
     "Python.2d_4_3.executor": "Run",
+    "Python.2d_4_4_search.executor": "Run",
     "Python.2d_4_5_sorting.executor": "Run",
     "Python.2d_argsort.executor": "Run",
     "Python.2d_join.executor": "Run",
@@ -77,9 +79,11 @@
     "Python.demo.executor": "Run",
     "Python.demo2.executor": "Run",
     "Python.diamension.executor": "Run",
+    "Python.filter_1d.executor": "Run",
     "Python.full_matrix.executor": "Run",
     "Python.identity_matrix.executor": "Run",
     "Python.matrix_range_arange.executor": "Run",
+    "Python.matrix_search_1d.executor": "Run",
     "Python.once_matrix.executor": "Run",
     "Python.zero_matrix.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -141,7 +145,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721011046259</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="python modules - 1. numpy">
+      <option name="closed" value="true" />
+      <created>1721016759473</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1721016759473</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
