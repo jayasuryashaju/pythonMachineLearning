@@ -4,16 +4,64 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d02e070-5be0-4492-83af-d6ec9f578125" name="Changes" comment="python modules - 1. numpy">
-      <change afterPath="$PROJECT_DIR$/numpy/1_50_1d_problem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy/1_50_even_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy/1d_matrix_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy/2d_4_4_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy/filter_1d.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy/matrix_search_1d.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy/numpy_topics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandas/demo.py" afterDir="false" />
+    <list default="true" id="2d02e070-5be0-4492-83af-d6ec9f578125" name="Changes" comment="added pandas">
+      <change afterPath="$PROJECT_DIR$/pandas_1/combine_series.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas_1/data_frame_nested_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas_1/df_describe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas_1/dict_tuple_series.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas_1/list_index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas_1/list_series_index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas_1/pandas_data_structures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas_1/pandas_series_index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas_1/series.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas_1/series_mathematical_operations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonMachineLearningBasic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonMachineLearningBasic.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/1D_dot_product.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_1/1D_dot_product.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/1_1d_matrix_join.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_1/1_1d_matrix_join.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/1_50_1d_problem.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_1/1_50_1d_problem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/1_50_even_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_1/1_50_even_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/1d_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_1/1d_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/1d_argmax.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_1/1d_argmax.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/1d_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_1/1d_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/1d_matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_1/1d_matrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/1d_matrix_.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_1/1d_matrix_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/1d_matrix_argsort.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_1/1d_matrix_argsort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/1d_slicing.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_1/1d_slicing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/1d_zero.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_1/1d_zero.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/2_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_1/2_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/2d_3_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_1/2d_3_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/2d_3_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_1/2d_3_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/2d_4_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_1/2d_4_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/2d_4_4_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_1/2d_4_4_search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/2d_4_5_sorting.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_1/2d_4_5_sorting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/2d_argsort.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_1/2d_argsort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/2d_join.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_1/2d_join.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/2d_matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_1/2d_matrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/2d_sorting_4_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_1/2d_sorting_4_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/2d_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_1/2d_sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/3d_4_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_1/3d_4_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/3d_4_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_1/3d_4_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/3d_zero_5_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_1/3d_zero_5_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/4_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_1/4_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/4_4_decimal.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_1/4_4_decimal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/4_5_to_5_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_1/4_5_to_5_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/addition_3_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_1/addition_3_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/arg_min_1d_2d.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_1/arg_min_1d_2d.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/arrange.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_1/arrange.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/complex_matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_1/complex_matrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/demo2.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_1/demo2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/diamension.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_1/diamension.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/filter_1d.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_1/filter_1d.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/full_matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_1/full_matrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/identity_matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_1/identity_matrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/linspace.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_1/linspace.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/matrix_range_arange.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_1/matrix_range_arange.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/matrix_search_1d.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_1/matrix_search_1d.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/numpy_topics.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_1/numpy_topics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/once_matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_1/once_matrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/zero_matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_1/zero_matrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandas/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas_1/demo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,16 +123,25 @@
     "Python.addition_3_3.executor": "Run",
     "Python.arg_min_1d_2d.executor": "Run",
     "Python.arrange.executor": "Run",
+    "Python.combine_series.executor": "Run",
     "Python.complex_matrix.executor": "Run",
+    "Python.data_frame_nested_list.executor": "Run",
     "Python.demo.executor": "Run",
     "Python.demo2.executor": "Run",
+    "Python.df_describe.executor": "Run",
     "Python.diamension.executor": "Run",
+    "Python.dict_tuple_series.executor": "Run",
     "Python.filter_1d.executor": "Run",
     "Python.full_matrix.executor": "Run",
     "Python.identity_matrix.executor": "Run",
+    "Python.list_index.executor": "Run",
+    "Python.list_series_index.executor": "Run",
     "Python.matrix_range_arange.executor": "Run",
     "Python.matrix_search_1d.executor": "Run",
     "Python.once_matrix.executor": "Run",
+    "Python.pandas_series_index.executor": "Run",
+    "Python.series.executor": "Run",
+    "Python.series_mathematical_operations.executor": "Run",
     "Python.zero_matrix.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -153,7 +210,23 @@
       <option name="project" value="LOCAL" />
       <updated>1721016759473</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="filter-search-split functions added">
+      <option name="closed" value="true" />
+      <created>1721101682651</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1721101682651</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added pandas">
+      <option name="closed" value="true" />
+      <created>1721101780688</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1721101780688</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -169,6 +242,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="python modules - 1. numpy" />
-    <option name="LAST_COMMIT_MESSAGE" value="python modules - 1. numpy" />
+    <MESSAGE value="filter-search-split functions added" />
+    <MESSAGE value="added pandas" />
+    <option name="LAST_COMMIT_MESSAGE" value="added pandas" />
   </component>
 </project>
