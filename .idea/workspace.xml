@@ -4,21 +4,49 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d02e070-5be0-4492-83af-d6ec9f578125" name="Changes" comment="directories-changed, pandas introduction">
-      <change afterPath="$PROJECT_DIR$/pandas_1/calculating_missing_value_and_filling_common_df.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandas_1/csv_to_df.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandas_1/csv_to_df_slicing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandas_1/customer_file_to_df.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandas_1/df_filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandas_1/df_filter_sample4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandas_1/df_imp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandas_1/missing_value_filling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandas_1/movies_cleaned_pandas_to_df.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandas_1/nested_dict_df.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandas_1/new_columns_to_df.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandas_1/sample" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandas_1/sort_function_df.py" afterDir="false" />
+    <list default="true" id="2d02e070-5be0-4492-83af-d6ec9f578125" name="Changes" comment="new function added">
+      <change afterPath="$PROJECT_DIR$/WEEK 5 ASSIGNMENTS/Q1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 5 ASSIGNMENTS/Q10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 5 ASSIGNMENTS/Q2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 5 ASSIGNMENTS/Q3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 5 ASSIGNMENTS/Q4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 5 ASSIGNMENTS/Q5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 5 ASSIGNMENTS/Q6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 5 ASSIGNMENTS/Q7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 5 ASSIGNMENTS/Q8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 5 ASSIGNMENTS/Q9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 6 ASSIGNMENTS/Q1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_dataset_processing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_question_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_questions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jithin_project/script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas_1/Evaluating_Functions/customer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas_1/Evaluating_Functions/customer5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas_1/Evaluating_Functions/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas_1/Evaluating_Functions/full_outer_joining.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas_1/Evaluating_Functions/joining_operation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas_1/Evaluating_Functions/joining_student_result.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas_1/Evaluating_Functions/joining_two_files_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas_1/Evaluating_Functions/left_outer_joining.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas_1/Evaluating_Functions/max_min_temp_each_year.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas_1/Evaluating_Functions/max_operation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas_1/Evaluating_Functions/right_outer_joining.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas_1/Evaluating_Functions/sample4_operations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas_1/customer_1_problems.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas_1/data_cleaning/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas_1/data_cleaning/dropping_row.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas_1/data_cleaning/filling_missing_value_each_column.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas_1/data_cleaning/filling_missing_values_properly.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas_1/data_cleaning/wine_quantity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas_1/data_cleaning/wrong_format_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas_1/drop_duplicates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas_1/dropping_columns.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandas_1/df_problems_sort_loc.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas_1/df_problems_sort_loc.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,15 +105,31 @@
     "Python.4_4.executor": "Run",
     "Python.4_4_decimal.executor": "Run",
     "Python.4_5_to_5_4.executor": "Run",
+    "Python.Q1.executor": "Run",
+    "Python.Q10.executor": "Run",
+    "Python.Q2.executor": "Run",
+    "Python.Q3.executor": "Run",
+    "Python.Q4.executor": "Run",
+    "Python.Q5.executor": "Run",
+    "Python.Q6.executor": "Run",
+    "Python.Q7.executor": "Run",
+    "Python.Q8.executor": "Run",
+    "Python.Q9.executor": "Run",
     "Python.addition_3_3.executor": "Run",
     "Python.arg_min_1d_2d.executor": "Run",
     "Python.arrange.executor": "Run",
+    "Python.assignment_1.executor": "Run",
+    "Python.assignment_2.executor": "Run",
+    "Python.assignment_3.executor": "Run",
     "Python.calculating_missing_value_and_filling_common_df.executor": "Run",
     "Python.calculating_missing_value_df.executor": "Run",
     "Python.combine_series.executor": "Run",
     "Python.complex_matrix.executor": "Run",
     "Python.csv_to_df.executor": "Run",
     "Python.csv_to_df_slicing.executor": "Run",
+    "Python.customer.executor": "Run",
+    "Python.customer5.executor": "Run",
+    "Python.customer_1_problems.executor": "Run",
     "Python.customer_file_to_df.executor": "Run",
     "Python.data_frame_nested_list.executor": "Run",
     "Python.demo.executor": "Run",
@@ -94,24 +138,45 @@
     "Python.df_filter.executor": "Run",
     "Python.df_filter_sample4.executor": "Run",
     "Python.df_imp.executor": "Run",
+    "Python.df_problems_sort_loc.executor": "Run",
     "Python.diamension.executor": "Run",
     "Python.dict_tuple_series.executor": "Run",
+    "Python.drop_duplicates.executor": "Run",
+    "Python.dropping_columns.executor": "Run",
+    "Python.dropping_row.executor": "Run",
+    "Python.filling_missing_value_each_column.executor": "Run",
+    "Python.filling_missing_values_properly.executor": "Run",
     "Python.filter_1d.executor": "Run",
     "Python.full_matrix.executor": "Run",
+    "Python.full_outer_joining.executor": "Run",
     "Python.identity_matrix.executor": "Run",
+    "Python.interview_question_1.executor": "Run",
+    "Python.interview_questions.executor": "Run",
+    "Python.joining_operation.executor": "Run",
+    "Python.joining_student_result.executor": "Run",
+    "Python.joining_two_files_data.executor": "Run",
+    "Python.left_outer_joining.executor": "Run",
     "Python.list_index.executor": "Run",
     "Python.list_series_index.executor": "Run",
     "Python.matrix_range_arange.executor": "Run",
     "Python.matrix_search_1d.executor": "Run",
+    "Python.max_min_temp_each_year.executor": "Run",
+    "Python.max_operation.executor": "Run",
+    "Python.max_temp_each_year.executor": "Run",
     "Python.missing_value_filling.executor": "Run",
     "Python.movies_cleaned_pandas_to_df.executor": "Run",
     "Python.nested_dict_df.executor": "Run",
     "Python.new_columns_to_df.executor": "Run",
     "Python.once_matrix.executor": "Run",
     "Python.pandas_series_index.executor": "Run",
+    "Python.right_outer_joining.executor": "Run",
+    "Python.sample4_operations.executor": "Run",
+    "Python.script.executor": "Run",
     "Python.series.executor": "Run",
     "Python.series_mathematical_operations.executor": "Run",
     "Python.sort_function_df.executor": "Run",
+    "Python.wine_quantity.executor": "Run",
+    "Python.wrong_format_data.executor": "Run",
     "Python.zero_matrix.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -205,7 +270,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721448363929</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="new function added">
+      <option name="closed" value="true" />
+      <created>1721703096950</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1721703096950</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -224,6 +297,7 @@
     <MESSAGE value="filter-search-split functions added" />
     <MESSAGE value="added pandas" />
     <MESSAGE value="directories-changed, pandas introduction" />
-    <option name="LAST_COMMIT_MESSAGE" value="directories-changed, pandas introduction" />
+    <MESSAGE value="new function added" />
+    <option name="LAST_COMMIT_MESSAGE" value="new function added" />
   </component>
 </project>
