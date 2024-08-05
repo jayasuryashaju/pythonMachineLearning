@@ -4,6 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="2d02e070-5be0-4492-83af-d6ec9f578125" name="Changes" comment="new function added">
       <change afterPath="$PROJECT_DIR$/WEEK 6 ASSIGNMENTS/Q2..py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/WEEK 6 ASSIGNMENTS/Q3.py" afterDir="false" />
@@ -16,6 +17,9 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WEEK 6 ASSIGNMENTS/Q1.py" beforeDir="false" afterPath="$PROJECT_DIR$/WEEK 6 ASSIGNMENTS/Q1.py" afterDir="false" />
     </list>
+=======
+    <list default="true" id="2d02e070-5be0-4492-83af-d6ec9f578125" name="Changes" comment="new function added" />
+>>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,6 +58,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< Updated upstream
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
@@ -166,8 +171,119 @@
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/jayas/PycharmProjects/pythonMachineLearningBasic",
     "settings.editor.selected.configurable": "preferences.pluginManager"
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;Python.1D_dot_product.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1_1d_matrix_join.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1_50_1d_problem.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1_50_even_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1d_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1d_argmax.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1d_functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1d_matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1d_matrix_argsort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1d_slicing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1d_zero.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2d_3_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2d_3_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2d_4_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2d_4_4_search.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2d_4_5_sorting.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2d_argsort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2d_join.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2d_matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2d_sorting_4_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2d_sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3d_4_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3d_4_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3d_zero_5_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4_4_decimal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4_5_to_5_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.addition_3_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.arg_min_1d_2d.executor&quot;: &quot;Run&quot;,
+    &quot;Python.arrange.executor&quot;: &quot;Run&quot;,
+    &quot;Python.assignment_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.assignment_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.assignment_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calculating_missing_value_and_filling_common_df.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calculating_missing_value_df.executor&quot;: &quot;Run&quot;,
+    &quot;Python.combine_series.executor&quot;: &quot;Run&quot;,
+    &quot;Python.complex_matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.csv_to_df.executor&quot;: &quot;Run&quot;,
+    &quot;Python.csv_to_df_slicing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.customer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.customer5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.customer_1_problems.executor&quot;: &quot;Run&quot;,
+    &quot;Python.customer_file_to_df.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_frame_nested_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.demo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.demo2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.df_describe.executor&quot;: &quot;Run&quot;,
+    &quot;Python.df_filter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.df_filter_sample4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.df_imp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.df_problems_sort_loc.executor&quot;: &quot;Run&quot;,
+    &quot;Python.diamension.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dict_tuple_series.executor&quot;: &quot;Run&quot;,
+    &quot;Python.drop_duplicates.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dropping_columns.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dropping_row.executor&quot;: &quot;Run&quot;,
+    &quot;Python.filling_missing_value_each_column.executor&quot;: &quot;Run&quot;,
+    &quot;Python.filling_missing_values_properly.executor&quot;: &quot;Run&quot;,
+    &quot;Python.filter_1d.executor&quot;: &quot;Run&quot;,
+    &quot;Python.full_matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.full_outer_joining.executor&quot;: &quot;Run&quot;,
+    &quot;Python.identity_matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.interview_question_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.interview_questions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.joining_operation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.joining_student_result.executor&quot;: &quot;Run&quot;,
+    &quot;Python.joining_two_files_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.left_outer_joining.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list_index.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list_series_index.executor&quot;: &quot;Run&quot;,
+    &quot;Python.matrix_range_arange.executor&quot;: &quot;Run&quot;,
+    &quot;Python.matrix_search_1d.executor&quot;: &quot;Run&quot;,
+    &quot;Python.max_min_temp_each_year.executor&quot;: &quot;Run&quot;,
+    &quot;Python.max_operation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.max_temp_each_year.executor&quot;: &quot;Run&quot;,
+    &quot;Python.missing_value_filling.executor&quot;: &quot;Run&quot;,
+    &quot;Python.movies_cleaned_pandas_to_df.executor&quot;: &quot;Run&quot;,
+    &quot;Python.nested_dict_df.executor&quot;: &quot;Run&quot;,
+    &quot;Python.new_columns_to_df.executor&quot;: &quot;Run&quot;,
+    &quot;Python.once_matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pandas_series_index.executor&quot;: &quot;Run&quot;,
+    &quot;Python.right_outer_joining.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sample4_operations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.script.executor&quot;: &quot;Run&quot;,
+    &quot;Python.series.executor&quot;: &quot;Run&quot;,
+    &quot;Python.series_mathematical_operations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sort_function_df.executor&quot;: &quot;Run&quot;,
+    &quot;Python.wine_quantity.executor&quot;: &quot;Run&quot;,
+    &quot;Python.wrong_format_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zero_matrix.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/jayas/PycharmProjects/pythonMachineLearningBasic&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+>>>>>>> Stashed changes
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\jayas\PycharmProjects\pythonMachineLearningBasic\numpy" />
@@ -263,11 +379,19 @@
     </task>
     <task id="LOCAL-00010" summary="new function added">
       <option name="closed" value="true" />
+<<<<<<< Updated upstream
       <created>1722608487201</created>
       <option name="number" value="00010" />
       <option name="presentableId" value="LOCAL-00010" />
       <option name="project" value="LOCAL" />
       <updated>1722608487201</updated>
+=======
+      <created>1722607342235</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1722607342235</updated>
+>>>>>>> Stashed changes
     </task>
     <option name="localTasksCounter" value="11" />
     <servers />
