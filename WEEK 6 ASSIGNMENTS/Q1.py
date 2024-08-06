@@ -1,4 +1,9 @@
-import numpy as np
+"""
+importing my_module to print the greeting msg.
+"""
 
-s = np.array([1, 3, 6, 6, 7, 8, 9])
-print(s)
+import my_module as mm
+
+name = input('Enter your name : ')
+mm.greet(name)
+
